@@ -3,5 +3,5 @@
 Console simulation of a virtual vending machine
 
 ## Run the program
-´´´console
+```console
 python main.py
